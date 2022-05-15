@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ABACore/ABACore.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../ABACore/Materiály/javadoc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
